@@ -1,0 +1,10 @@
+Task5.
+Activity Breakfast duration: 171
+Activity Grooming duration: 139
+Activity Toileting duration: 124
+Activity Sleeping duration: 7856
+Activity Leaving duration: 1658
+Activity Spare_Time/TV duration: 8510
+Activity Snack duration: 4
+Activity Showering duration: 85
+Activity Lunch duration: 310

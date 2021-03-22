@@ -1,0 +1,10 @@
+Task3:
+Activity Breakfast has been counted 14 times
+Activity Grooming has been counted 51 times
+Activity Toileting has been counted 44 times
+Activity Sleeping has been counted 14 times
+Activity Leaving has been counted 14 times
+Activity Spare_Time/TV has been counted 77 times
+Activity Snack has been counted 11 times
+Activity Showering has been counted 14 times
+Activity Lunch has been counted 9 times
